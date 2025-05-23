@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: url('robot.gif');
+  background: url('/public/robot.gif');
   background-size: contain;
   /* Image will be fully visible on screen */
   background-position: left center;
