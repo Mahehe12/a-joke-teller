@@ -13,9 +13,10 @@ A simple and fun Joke Teller app that fetches programming jokes and speaks them 
 ---
 
 ## 🌐 Live Demo
-[Host](https://www.google.com/)
-🖱️ Click the button  
-📢 Hear the joke
+- [Live here](https://www.google.com/)
+
+- 🖱️ Click the button  
+- 📢 Hear the joke
 
 ---
 
